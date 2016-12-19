@@ -1,2 +1,3 @@
 # baby-cakes
-Hopefully useful
+
+Aiming at a boating app of some sort
